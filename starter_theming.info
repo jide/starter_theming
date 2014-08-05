@@ -1,0 +1,12 @@
+name = Starter: Theming
+description = Starter Theming.
+core = 7.x
+package = Starter
+version = 7.x-1.0
+project = starter_theming
+dependencies[] = block_class
+dependencies[] = bootstrap_fieldgroup
+dependencies[] = ds_bootstrap_layouts
+dependencies[] = views_bootstrap
+features[features_api][] = api:2
+project path = sites/all/modules/features
