@@ -1,5 +1,7 @@
 <?php
 /**
  * @file
- * Drupal needs this blank file.
+ * Code for the Starter: Theming feature.
  */
+
+include_once 'starter_theming.features.inc';
