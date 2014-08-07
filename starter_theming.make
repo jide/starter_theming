@@ -12,6 +12,8 @@ projects[twitter_bootstrap_modal][subdir] = "contrib"
 projects[jquery_ajax_load][subdir] = "contrib"
 projects[jquery_update][subdir] = "contrib"
 projects[icon][subdir] = "contrib"
+projects[less][subdir] = "contrib"
+projects[ds_bootstrap_layouts][version] = "4.x-dev"
 
 projects[starter_theme][type] = "theme"
 projects[starter_theme][download][type] = "git"

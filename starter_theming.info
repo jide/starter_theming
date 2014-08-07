@@ -19,6 +19,7 @@ dependencies[] = jquery_update
 dependencies[] = strongarm
 dependencies[] = twitter_bootstrap_modal
 dependencies[] = views_bootstrap
+dependencies[] = less
 features[ctools][] = strongarm:strongarm:1
 features[features_api][] = api:2
 features[variable][] = icon_api_apache_suppress_warning
