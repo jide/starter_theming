@@ -4,7 +4,7 @@
  * Implements hook_install().
  */
 function starter_theming_install() {
-  $default_theme = 'bootstrap';
+  $default_theme = 'starter_theme';
 
   db_update('system')
     ->fields(array('status' => 0))

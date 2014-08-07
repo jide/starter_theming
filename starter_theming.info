@@ -23,5 +23,6 @@ features[ctools][] = strongarm:strongarm:1
 features[features_api][] = api:2
 features[variable][] = icon_api_apache_suppress_warning
 features[variable][] = icon_api_view_path_alias
+features[variable][] = less_engine
 features[variable][] = theme_default
 project path = sites/all/modules/features
