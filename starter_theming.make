@@ -13,6 +13,7 @@ projects[jquery_ajax_load][subdir] = "contrib"
 projects[jquery_update][subdir] = "contrib"
 projects[icon][subdir] = "contrib"
 projects[less][subdir] = "contrib"
+projects[less][version] = "4.x-dev"
 
 projects[starter_theme][type] = "theme"
 projects[starter_theme][download][type] = "git"
