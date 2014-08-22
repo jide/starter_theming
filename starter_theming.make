@@ -18,7 +18,6 @@ projects[less][version] = "4.x-dev"
 projects[starter_theme][type] = "theme"
 projects[starter_theme][download][type] = "git"
 projects[starter_theme][download][url] = "git://github.com/jide/starter_theme.git"
-projects[starter_theme][subdir] = "features"
 
 libraries[less.php][download][type] = "file"
 libraries[less.php][download][url] = "https://github.com/oyejorge/less.php/releases/download/v1.7.0.2/less.php_1.7.0.2.zip"
